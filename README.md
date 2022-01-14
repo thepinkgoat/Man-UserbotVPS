@@ -24,32 +24,32 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 # REQUIREMENTS PACKAGE !
 
 - UPDATE YOUR VPS
-- Update command `sudo apt install update`
+`sudo apt install update`
 
 - UPGRADE YOUR VPS
-- Upgrade command `sudo apt install upgrade -y`
+`sudo apt install upgrade -y`
 
 - GIT
-- Installation command `sudo apt install git -y`
+`sudo apt install git -y`
 
 - Python3
-- Installation command `sudo apt install python3`
+`sudo apt install python3`
 
 - PIP / PIP3
-- Installation command `sudo apt install python3-pip
+`sudo apt install python3-pip
 
 - NODEJS 16.X 
-- Installation command `curl -fsSL https://deb.nodesource.com/setup_16.x | sudo bash -` then do `sudo apt install -y nodejs vim`
+`curl -fsSL https://deb.nodesource.com/setup_16.x | sudo bash -` then do `sudo apt install -y nodejs vim`
 
 - FF MPEG
-- Installation command `sudo apt install tree wget2 p7zip-full jq ffmpeg wget git -y`
+`sudo apt install tree wget2 p7zip-full jq ffmpeg wget git -y`
 
 - Chrome
-- Installation command wget `https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb then do sudo apt install ./google-chrome-stable_current_amd64.deb`
+`https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb` then do `sudo apt install ./google-chrome-stable_current_amd64.deb`
 
 ## Tutorial Deploying VPS
 
-`git clone https://github.com/VerifiedSadboy/Man-UserbotVPS`
+- `git clone https://github.com/VerifiedSadboy/Man-UserbotVPS`
 - `cd Man-UserbotVPS`
 - `pip3 install -r requirements.txt`
 - `mv sample_config.env config.env`
