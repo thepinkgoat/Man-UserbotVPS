@@ -24,16 +24,16 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 ## Tutorial Deploying VPS
 
 `git clone https://github.com/VerifiedSadboy/Man-UserbotVPS`
-`cd Man-UserbotVPS`
-`pip3 install -r requirements.txt`
-`mv sample_config.env config.env`
-edit your config.env and fill VARS using `nano config.env`
+- `cd Man-UserbotVPS`
+- `pip3 install -r requirements.txt`
+- `mv sample_config.env config.env`
+- edit your config.env and fill VARS using `nano config.env`
 `CTRL + S ` for save your VARS, then `CTRL + X` to exit and back to Man-UserbotVPS directory
 
-Open SCREEN on your VPS
+- Open SCREEN on your VPS
 `screen -S Man-UserbotVPS`
 
-Then use this command to deploy Man-UserbotVPS
+- Then use this command to deploy Man-UserbotVPS
 `python3 -m userbot`
 
 ### Generate String Session
