@@ -21,6 +21,32 @@ mengelola grup secara efisien dan mengotomatiskan beberapa hal yang membosankan.
 Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 ```
 
+# REQUIREMENTS PACKAGE !
+
+- UPDATE YOUR VPS
+- Update command `sudo apt install update`
+
+- UPGRADE YOUR VPS
+- Upgrade command `sudo apt install upgrade -y`
+
+- GIT
+- Installation command `sudo apt install git -y`
+
+- Python3
+- Installation command `sudo apt install python3`
+
+- PIP / PIP3
+- Installation command `sudo apt install python3-pip
+
+- NODEJS 16.X 
+- Installation command `curl -fsSL https://deb.nodesource.com/setup_16.x | sudo bash -` then do `sudo apt install -y nodejs vim`
+
+- FF MPEG
+- Installation command `sudo apt install tree wget2 p7zip-full jq ffmpeg wget git -y`
+
+- Chrome
+- Installation command wget `https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb then do sudo apt install ./google-chrome-stable_current_amd64.deb`
+
 ## Tutorial Deploying VPS
 
 `git clone https://github.com/VerifiedSadboy/Man-UserbotVPS`
@@ -39,9 +65,6 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 ### Generate String Session
 [![Run repl.it](https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it)](https://repl.it/@mrismanaziz/stringenSession?lite=1&outputonly=1)
 
-<h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
-<p align="center"><a href="https://risman.vercel.app/deploy.html"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
-
 ## Updates dan support
 
 Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot dan Gabung Group [@SharingUserbot](https://t.me/SharingUserbot) untuk untuk diskusi, pelaporan bug, dan bantuan tentang Man-Userbot.
@@ -57,6 +80,7 @@ Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot dan 
 *   [Risman](https://github.com/mrismanaziz/Man-Userbot) :  Man-Userbot
 *   [Koala](https://github.com/ManusiaRakitan/Kampang-Bot) : Kampang-Bot
 *   [Alvin](https://github.com/Zora24/Lord-Userbot) : Lord-Userbot
+*   [VerifiedSadboy](https://github.com/VerifiedSadboy/Man-UserbotVPS) : Kange Nge-CLONE
 
 ## License
 Licensed under [Raphielscape Public License](https://github.com/mrismanaziz/Man-Userbot/blob/Man-Userbot/LICENSE) - Version 1.d, February 2020
