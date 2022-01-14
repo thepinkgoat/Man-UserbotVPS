@@ -62,6 +62,11 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 - Then use this command to deploy Man-UserbotVPS
 `python3 -m userbot`
 
+### IF YOU HAVE ANY QUESTION PLEASE MSG ME ON TELEGRAM
+
+- @VerifiedSadboy
+
+
 ### Generate String Session
 [![Run repl.it](https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it)](https://repl.it/@mrismanaziz/stringenSession?lite=1&outputonly=1)
 
