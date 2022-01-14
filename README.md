@@ -36,7 +36,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 `sudo apt install python3`
 
 - PIP / PIP3
-`sudo apt install python3-pip
+`sudo apt install python3-pip`
 
 - NODEJS 16.X 
 `curl -fsSL https://deb.nodesource.com/setup_16.x | sudo bash -` then do `sudo apt install -y nodejs vim`
