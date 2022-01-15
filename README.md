@@ -24,10 +24,10 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 # REQUIREMENTS PACKAGE !
 
 - UPDATE YOUR VPS
-`sudo apt install update`
+`sudo apt update`
 
 - UPGRADE YOUR VPS
-`sudo apt install upgrade -y`
+`sudo apt upgrade -y`
 
 - GIT
 `sudo apt install git -y`
@@ -45,7 +45,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 `sudo apt install tree wget2 p7zip-full jq ffmpeg wget git -y`
 
 - Chrome
-`https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb` then do `sudo apt install ./google-chrome-stable_current_amd64.deb`
+`wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb` then do `sudo apt install ./google-chrome-stable_current_amd64.deb`
 
 ## Tutorial Deploying VPS
 
